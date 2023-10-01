@@ -1,0 +1,57 @@
+/* custom.css */
+
+/* Muuta taustaväriä */
+body {
+    background-color: #ecc3c3; /* Vaalean harmaa tausta */
+}
+
+/* Otsikon tyylit */
+h1 {
+    font-size: 24px;
+    color: #333; /* Musta väri */
+    margin-bottom: 20px;
+}
+
+/* Linkkien värit */
+a {
+    color: #0074d9; /* Sininen väri */
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline; /* Korosta linkkiä hiiren ollessa päällä */
+}
+
+/* Kappaleiden välinen tila */
+p {
+    margin-bottom: 15px;
+}
+
+/* Listojen tyyli */
+ul, ol {
+    margin-left: 20px;
+}
+
+/* Footerin taustaväri ja teksti */
+footer {
+    background-color: #333; /* Tumma harmaa tausta */
+    color: #fff; /* Valkoinen teksti */
+    padding: 10px;
+    text-align: center;
+}
+
+/* Tekstin väri footerissa */
+footer a {
+    color: #0074d9; /* Sininen väri */
+}
+
+/* Responsiivinen muotoilu pienille näytöille */
+@media (max-width: 768px) {
+    body {
+        font-size: 16px; /* Pienempi fonttikoko pienille näytöille */
+    }
+
+    header {
+        padding: 10px; /* Vähemmän tilaa otsikolle */
+    }
+}
