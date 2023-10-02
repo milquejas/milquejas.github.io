@@ -4,24 +4,25 @@ layout: home
 
 # Welcome to my GitHub site
 
-Hello, I'm [Your Name]. This is my personal portfolio where I showcase my projects, experiences, and share a bit about myself.
+"Step into the realm of my creations. As a game design student, I've dedicated my time to mastering the fusion of game mechanics and captivating narratives. This portfolio is a journey through my works, inspirations, and the universes I've begun to shape. Delve in and discover my approach to interactive storytelling."
 
 ## About Me
 
-I'm a passionate developer/designer/whatever-your-profession-is with X years of experience in [specific field or technology]. I love [something you love about your profession], and I'm always eager to learn and grow.
+As an aspiring game designer and student, every project I undertake is fueled by my passion for creating immersive worlds. The captivating dance between gameplay mechanics and engaging narratives drives me, and I am always on the lookout for the next innovation or storytelling technique to learn and incorporate into my designs.
 
 ## My Projects
 
-- **Project 1**: Short description. [Link to the project](#) if available.
-- **Project 2**: Short description. [Link to the project](#) if available.
-- **Project 3**: Short description. [Link to the project](#) if available.
+- **Game Design Concept 1**: An exploration into branching narratives. [See the details here](#).
+- **Interactive Story 2**: A blend of traditional storytelling with gameplay elements. [Experience it here](#).
+- **Prototype 3**: My take on reimagining classic game mechanics. [Play it here](#).
 
 ## Blog Posts
 
-*Coming soon! I plan to write about topics in [your field or interest].*
+*Stay tuned! I'm excited to share insights, reviews, and thoughts on the ever-evolving world of game design.*
 
-## Contact Me
+## Connect with Me
 
-Feel free to reach out! You can [send me an email](mailto:your.email@example.com) or find me on [LinkedIn](https://linkedin.com/in/yourusername), [Twitter](https://twitter.com/yourusername), or other social platforms.
+Your thoughts and feedback mean a lot. Feel free to [drop me an email](mailto:miqueas.orellana@outlook.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/miqueasorellana/) or [Twitter](https://twitter.com/yourusername). I'm always eager to collaborate, discuss, and learn from fellow enthusiasts.
 
-Thank you for visiting!
+Grateful for your visit!
+
