@@ -10,13 +10,12 @@ If you have any questions, suggestions, or simply want to connect, please feel f
 
 ## Contact Information
 
-- **Email**: [your.email@example.com]
-- **Phone**: [+XX XXX XXXXXXX]
-- **LinkedIn**: [link-to-your-linkedin-profile]
-- **GitHub**: [link-to-your-github-profile]
-- **Address**: [Street Address, City, Zip Code]
+- **Email**: [miqueas.orellana@outlook.com]
+- **LinkedIn**: [https://www.linkedin.com/in/miqueasorellana/]
+- **GitHub**: [https://github.com/milquejas]
+- **Address**: [Helsinki, FI]
 
-## Contact Form [Optional]
+<!-- ## Contact Form [Optional]
 
-[If you're using a platform that supports embedding forms, like Google Forms, Typeform, etc., you can embed or link to it here.]
+[If you're using a platform that supports embedding forms, like Google Forms, Typeform, etc., you can embed or link to it here.] -->
 

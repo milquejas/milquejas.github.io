@@ -1,51 +1,65 @@
 ---
 layout: page
-title: Project Name
-permalink: /project-name/
+title: Portfolio
+permalink: /portfolio/
 ---
 
-## Project Overview
+## Portfolio Overview
 
 ### **Objective**
 
-Describe the primary goal and purpose of the project. 
+This page showcases my skills, projects, and achievements as a game developer.
 
-### **Technologies Used**
+### **Skills**
 
-- Technology 1 (e.g., Unity, Unreal Engine, JavaScript)
-- Technology 2 (e.g., Python, Phaser, Godot)
-- Additional technologies or tools...
+- Game Development with Unity
+- Programming in C#
+- 2D and 3D Game Design
+- Problem Solving
+- Project Management
 
-## Features
+## Projects
 
-- **Feature 1**: Short description of the feature.
-- **Feature 2**: Short description of the feature.
-- **Feature 3**: Short description of the feature.
-  
-## Screenshots
+### Project 1: [Hide&Find](/project/game_1/)
 
-<!-- ![Description of screenshot 1](URL-to-screenshot-1.png)
-![Description of screenshot 2](URL-to-screenshot-2.png) -->
+- **Objective**: Briefly describe the primary goal and purpose of this project.
+- **Technologies Used**: Unity editor, C#
+- **Features**: List key features of the game.
+- **Screenshots**: [Link to Screenshots](/project/game_1/)
+
+### Project 2: [Seshat's Game](/project/game_2/)
+
+- **Objective**: Briefly describe the primary goal and purpose of this project.
+- **Technologies Used**: Unity editor, C#
+- **Features**: List key features of the game.
+- **Screenshots**: [Link to Screenshots](/project/game_2/)
+
+### Project 3: [Endless Dragonfly](/project/game_3/)
+
+- **Objective**: Briefly describe the primary goal and purpose of this project.
+- **Technologies Used**: Unity editor, C#
+- **Features**: List key features of the game.
+- **Screenshots**: [Link to Screenshots](/project/game_3/)
+
+
+## Achievements
+
+- Mention any awards, recognitions, or notable achievements related to your projects.
 
 ## Challenges
 
-Describe some challenges faced during the development of the project and how you overcame them.
+- Describe some of the challenges you faced during the development of your projects and how you overcame them.
 
 ## Lessons Learned
 
-Share what you learned from the process of creating this project.
+- Share what you have learned from your experiences in game development.
 
-## Future Improvements
+## Future Goals
 
-List potential improvements or features you'd like to add in the future.
+- List your future goals and aspirations as a game developer.
 
-## Credits
+<!-- ## Contact
 
-- **Role/Name**: Brief description or contribution. (e.g., **Developer/John Doe**: Main developer of the project)
-- **Role/Name**: Brief description or contribution.
-
-## Links
-
-- [Project Live Demo](#)
-- [GitHub Repository](#)
-
+- You can reach me at [miqueas.orellana@outlook.com].
+- Connect with me on [LinkedIn](#).
+- Explore my [GitHub Repository](#). -->

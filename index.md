@@ -12,9 +12,9 @@ As an aspiring game designer and student, every project I undertake is fueled by
 
 ## My Projects
 
-- **[Game Name 1]**: [Brief Description 1]. [Explore/Play it here](#link1).
-- **[Game Name 2]**: [Brief Description 2]. [Discover/Delve into it here](#link2).
-- **[Game Name 3]**: [Brief Description 3]. [Experience/Try it here](#link3).
+- **[Hide&Find]**: [2D HorrorGame]. [Explore/Play it here](#link1).
+- **[Seshat's Game]**: [2D MathGame]. [Explore/Play it here](#link2).
+- **[Endless Dragonfly]**: [2D Sidescroller]. [Explore/Play it here](#link3).
 
 ## Blog Posts
 
