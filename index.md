@@ -12,9 +12,9 @@ As an aspiring game designer and student, every project I undertake is fueled by
 
 ## My Projects
 
-- **Game Design Concept 1**: An exploration into branching narratives. [See the details here](#).
-- **Interactive Story 2**: A blend of traditional storytelling with gameplay elements. [Experience it here](#).
-- **Prototype 3**: My take on reimagining classic game mechanics. [Play it here](#).
+- **[Game Name 1]**: [Brief Description 1]. [Explore/Play it here](#link1).
+- **[Game Name 2]**: [Brief Description 2]. [Discover/Delve into it here](#link2).
+- **[Game Name 3]**: [Brief Description 3]. [Experience/Try it here](#link3).
 
 ## Blog Posts
 
@@ -22,7 +22,7 @@ As an aspiring game designer and student, every project I undertake is fueled by
 
 ## Connect with Me
 
-Your thoughts and feedback mean a lot. Feel free to [drop me an email](mailto:miqueas.orellana@outlook.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/miqueasorellana/) or [Twitter](https://twitter.com/yourusername). I'm always eager to collaborate, discuss, and learn from fellow enthusiasts.
+Your thoughts and feedback mean a lot. Feel free to [drop me an email](mailto:miqueas.orellana@outlook.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/miqueasorellana/) or [Instagram](https://instagram.com/justdoitmikeoriginal). I'm always eager to collaborate, discuss, and learn from fellow enthusiasts.
 
 Grateful for your visit!
 
