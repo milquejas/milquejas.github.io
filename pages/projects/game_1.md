@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hide&Find
-permalink: /project-name/game-1/
+permalink: /projects/game_1/
 ---
 
 # Hide&Find
@@ -57,7 +57,7 @@ Here are some potential improvements and features we'd like to add in the future
 - [Feature 2]
 - [Feature 3]
 
-## Credits
+<!-- ## Credits
 
 - **Developer**: [Ilkka Eskola, Miqueas Orellana]
 - **Artist**: [Mirva Tulonen, Janne Hämäläinen]
@@ -65,5 +65,5 @@ Here are some potential improvements and features we'd like to add in the future
 
 ## Links
 
-- [Play Game 1](#)
-- [GitHub Repository](#)
+- [Hide&Find](#)
+- [GitHub Repository](#) -->

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Seshat's Game
-permalink: /project/game_2/
+permalink: /projects/game_2/
 ---
 ---
 layout: page
@@ -62,7 +62,7 @@ Here are some potential improvements and features we'd like to add in the future
 - [Feature 2]
 - [Feature 3]
 
-## Credits
+<!-- ## Credits
 
 - **Developer**: [Riku Timonen, Jesse Saarela, Miqueas Orellana]
 - **Artist**: [Hilla Saarela]
@@ -70,5 +70,5 @@ Here are some potential improvements and features we'd like to add in the future
 
 ## Links
 
-- [Play Game 1](#)
-- [GitHub Repository](#)
+- [Play Seshat's Game](#)
+- [GitHub Repository](#) -->

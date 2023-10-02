@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Endless Dragonfly
-permalink: /project/game_3/
+permalink: /projects/game_3/
 ---
 
 # Endless Dragonfly
