@@ -55,3 +55,37 @@ footer a {
         padding: 10px; /* Vähemmän tilaa otsikolle */
     }
 }
+
+/* Dropdown-valikon tyyli */
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #fff; /* Taustaväri */
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+/* Valikon linkkien tyyli */
+.dropdown-content a {
+    color: #333; /* Tekstin väri */
+    padding: 12px 16px; /* Sisennykset ja tila linkkien ympärillä */
+    text-decoration: none;
+    display: block;
+}
+
+/* Valikon linkkien hover-tila */
+.dropdown-content a:hover {
+    background-color: #f0f0f0; /* Taustaväri hiiren ollessa päällä */
+    color: #0074d9; /* Vaihda tekstin väri */
+    text-decoration: none;
+}
+
