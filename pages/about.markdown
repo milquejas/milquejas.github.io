@@ -6,13 +6,6 @@ permalink: /about/
 
 ## About Me
 
----
-layout: page
-title: About
-permalink: /about/
----
-
-## About Me
 
 From the vibrant heart of Helsinki, I navigate the vast seas of game development, combining the enthusiasm of a student with the meticulousness of a seasoned professional. My explorations have led me deep into the dynamic domains of Unity's editor and the intricate details of C# game programming. But it's not just about code. I venture into the imaginative realms of game mechanics and environmental design, crafting worlds that beckon players to step in. At the core of it all? My unyielding desire to create gameplay experiences that challenge and resonate, leaving an indelible mark long after the screen goes dark.
 
@@ -32,12 +25,19 @@ My pursuit in this field is fueled by a genuine curiosity and a relentless drive
 
 I truly believe in the power of collaboration and sharing insights. Whether you have an idea, seek guidance, or simply wish to converse about the fascinating world of game development and design, I'm all ears. After all, the best innovations often arise from diverse perspectives and shared passions.
 
-To spark a conversation or discuss a potential collaboration, don't hesitate to [reach out!](/miqueas.orellana@outlook.com/). Let's create, innovate, and elevate together.
+To spark a conversation or discuss a potential collaboration, don't hesitate to reach out! Let's create, innovate, and elevate together.
 
 
 ---
 
-### Built with Jekyll & Minima
+## Contact Information
+
+- **Email**: [Email](mailto:miqueas.orellana@outlook.com)
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/miqueasorellana/)
+- **GitHub**: [GitHub](https://github.com/milquejas)
+- **Instagram**: [Instagram](https://instagram.com/justdoitmikeoriginal)
+
+<!-- ### Built with Jekyll & Minima
 
 <!-- This site proudly runs on Jekyll, adorned by the Minima theme. Dive into their documentation or source code:
 
@@ -54,7 +54,7 @@ You can find the source code for Minima at GitHub:
 
 You can find the source code for Jekyll at GitHub:
 [jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+[jekyll](https://github.com/jekyll/jekyll) -->
 
 
 [jekyll-organization]: https://github.com/jekyll -->

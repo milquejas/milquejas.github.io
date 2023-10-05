@@ -100,7 +100,17 @@
   }
 }
 
+.dropdown-content {
+  display: inline-block;
+  text-align: center;
 
+}
+
+// .dropdown:hover {
+//   .dropdown-content {
+//     display: inline-block; 
+//   }
+// }
 
 /**
  * Site footer
@@ -253,3 +263,5 @@
     }
   }
 }
+
+

@@ -6,14 +6,14 @@ permalink: /contact/
 
 # Contact Me
 
-If you have any questions, suggestions, or simply want to connect, please feel free to reach out using the information or form below.
+If you have any questions, suggestions, or simply want to connect, please feel free to reach out using the information.
 
 ## Contact Information
 
-- **Email**: [miqueas.orellana@outlook.com]
-- **LinkedIn**: [https://www.linkedin.com/in/miqueasorellana/]
-- **GitHub**: [https://github.com/milquejas]
-- **Address**: [Helsinki, FI]
+- **Email**: [Email](mailto:miqueas.orellana@outlook.com)
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/miqueasorellana/)
+- **GitHub**: [GitHub](https://github.com/milquejas)
+- **Instagram**: [Instagram](https://instagram.com/justdoitmikeoriginal)
 
 <!-- ## Contact Form [Optional]
 

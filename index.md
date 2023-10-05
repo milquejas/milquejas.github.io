@@ -1,8 +1,9 @@
 ---
 layout: home
+title: Home
 ---
 
-<!-- # Welcome to my GitHub site -->
+# Welcome to my GitHub site
 
 "Step into the realm of my creations. As a game design student, I've dedicated my time to mastering the fusion of game mechanics and captivating narratives. This portfolio is a journey through my works, inspirations, and the universes I've begun to shape. Delve in and discover my approach to interactive storytelling."
 
@@ -12,17 +13,23 @@ As an aspiring game designer and student, every project I undertake is fueled by
 
 ## My Projects
 
-- **[Hide&Find]**: [2D HorrorGame]. [Explore/Play it here](#link1).
-- **[Seshat's Game]**: [2D MathGame]. [Explore/Play it here](#link2).
-- **[Endless Dragonfly]**: [2D Sidescroller]. [Explore/Play it here](#link3).
+- **[There Will Be Darkness]**: [2D HorrorGame](/projects/game_1/).
+- **[Seshat's Game]**: [2D MathGame](/projects/game_2/).
+- **[Endless Dragonfly]**: [2D Sidescroller](/projects/game_3/).
 
-## Blog Posts
+<!-- ## Blog Posts
 
-*Stay tuned! I'm excited to share insights, reviews, and thoughts on the ever-evolving world of game design.*
+_Stay tuned! I'm excited to share insights, reviews, and thoughts on the ever-evolving world of game design._ -->
 
 ## Connect with Me
 
-Your thoughts and feedback mean a lot. Feel free to [drop me an email](mailto:miqueas.orellana@outlook.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/miqueasorellana/) or [Instagram](https://instagram.com/justdoitmikeoriginal). I'm always eager to collaborate, discuss, and learn from fellow enthusiasts.
+Your thoughts and feedback mean a lot. Feel free to reach out to me with the links below. I'm always eager to collaborate, discuss, and learn from fellow enthusiasts. 
+
+## Contact Information
+
+- **Email**: [Email](mailto:miqueas.orellana@outlook.com)
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/miqueasorellana/)
+- **GitHub**: [GitHub](https://github.com/milquejas)
+- **Instagram**: [Instagram](https://instagram.com/justdoitmikeoriginal)
 
 Grateful for your visit!
-

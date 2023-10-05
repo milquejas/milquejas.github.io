@@ -20,31 +20,31 @@ This page showcases my skills, projects, and achievements as a game developer.
 
 ## Projects
 
-### Project 1: [Hide&Find](/project/game_1/)
+### Project 1: [There Will Be Darkness](/projects/game_1/)
 
 - **Objective**: Briefly describe the primary goal and purpose of this project.
 - **Technologies Used**: Unity editor, C#
 - **Features**: List key features of the game.
-- **Screenshots**: [Link to Screenshots](/project/game_1/)
+- **Screenshots**: [Link to Screenshots](/projects/game_1/)
 
-### Project 2: [Seshat's Game](/project/game_2/)
-
-- **Objective**: Briefly describe the primary goal and purpose of this project.
-- **Technologies Used**: Unity editor, C#
-- **Features**: List key features of the game.
-- **Screenshots**: [Link to Screenshots](/project/game_2/)
-
-### Project 3: [Endless Dragonfly](/project/game_3/)
+### Project 2: [Seshat's Game](/projects/game_2/)
 
 - **Objective**: Briefly describe the primary goal and purpose of this project.
 - **Technologies Used**: Unity editor, C#
 - **Features**: List key features of the game.
-- **Screenshots**: [Link to Screenshots](/project/game_3/)
+- **Screenshots**: [Link to Screenshots](/projects/game_2/)
+
+### Project 3: [Endless Dragonfly](/projects/game_3/)
+
+- **Objective**: Briefly describe the primary goal and purpose of this project.
+- **Technologies Used**: Unity editor, C#
+- **Features**: List key features of the game.
+- **Screenshots**: [Link to Screenshots](/projects/game_3/)
 
 
-## Achievements
+<!-- ## Achievements
 
-- Mention any awards, recognitions, or notable achievements related to your projects.
+- Mention any awards, recognitions, or notable achievements related to your projects. -->
 
 ## Challenges
 
@@ -63,3 +63,10 @@ This page showcases my skills, projects, and achievements as a game developer.
 - You can reach me at [miqueas.orellana@outlook.com].
 - Connect with me on [LinkedIn](#).
 - Explore my [GitHub Repository](#). -->
+
+## Contact Information
+
+- **Email**: [Email](mailto:miqueas.orellana@outlook.com)
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/miqueasorellana/)
+- **GitHub**: [GitHub](https://github.com/milquejas)
+- **Instagram**: [Instagram](https://instagram.com/justdoitmikeoriginal)
