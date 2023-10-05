@@ -46,7 +46,7 @@ This page showcases my skills, projects, and achievements as a game developer.
 
 - Mention any awards, recognitions, or notable achievements related to your projects. -->
 
-## Challenges
+<!-- ## Challenges
 
 - Describe some of the challenges you faced during the development of your projects and how you overcame them.
 
@@ -56,7 +56,7 @@ This page showcases my skills, projects, and achievements as a game developer.
 
 ## Future Goals
 
-- List your future goals and aspirations as a game developer.
+- List your future goals and aspirations as a game developer. -->
 
 <!-- ## Contact
 
