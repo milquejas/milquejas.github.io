@@ -191,17 +191,6 @@ In today's rapidly evolving educational landscape, there's a pressing need to ma
 
 #### In the journey of developing "Seshat's Game", we navigated through multifaceted challenges, each contributing to our growth as developers and strengthening our team's cohesion. While we are proud of our achievements, we acknowledge the limitless potential for expansion and refinement in our game. The proposed future improvements are not just features but represent our commitment to offering an immersive and dynamic gameplay experience. As we look ahead, we are excited about the prospect of weaving in elements like city life infrastructure and intricate player mechanics, aiming to create an even more enriched and engaging virtual world. Our endeavor remains rooted in the collective effort of our team, with a clear focus on enhancing user engagement and continuously pushing the boundaries of what our game can offer.
 
-<!-- # Screenshots
-
-![Screenshot 1](URL-to-screenshot-1.png)
-![Screenshot 2](URL-to-screenshot-2.png) -->
-
-## Credits
-
-- **Developer**: [Riku Timonen, Jesse Saarela, Miqueas Orellana]
-- **Artist**: [Hilla Saarela]
-- **Sound Designer**: [Miqueas Orellana, Riku Timonen]
-
 ## Technologies Used
 
 - **Unity:** Our game engine, providing the foundation for development and graphics rendering.
@@ -218,8 +207,20 @@ In today's rapidly evolving educational landscape, there's a pressing need to ma
 
 ## Links
 
-- [Play Seshat's Game](https://rikutt.github.io/MathGameWebglBuild/)
-- [GitHub Repository](https://github.com/milquejas/Seshat-s-Game)
+- [**Play Seshat's Game**](https://rikutt.github.io/MathGameWebglBuild/)
+- [**GitHub Repository**](https://github.com/milquejas/Seshat-s-Game)
+
+## Credits
+
+- **Developer**: [Riku Timonen](https://github.com/rikutt), [Jesse Saarela](https://github.com/JeDa187), [Miqueas Orellana](https://github.com/milquejas)
+- **Artist**: [Hilla Saarela](https://github.com/KarmaVonGrim)
+- **Sound Designer**: [Miqueas Orellana](https://github.com/milquejas), [Riku Timonen](https://github.com/rikutt)
+
+## Additional Credits:
+
+- For [**BeaverJoe**](https://www.youtube.com/@beaverjoe9171) to make of this video on [*Youtube*](https://www.youtube.com/watch?v=RXb6PGRiU58&t=1s) and sharing the tile assets!
+
+- For [**Alice Hinton-Jones**](https://blog.unity.com/author/cap-aliceh) for the [*Blog*](https://blog.unity.com/engine-platform/isometric-2d-environments-with-tilemap) made in Unity blogs!
 
 ## Contact Information
 

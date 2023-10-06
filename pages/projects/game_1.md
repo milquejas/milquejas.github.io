@@ -141,14 +141,14 @@ In the development of Game 1, we utilized several key technologies:
 
 ## Credits
 
-- **Developer**: [Ilkka Eskola, Miqueas Orellana]
-- **Artist**: [Mirva Tulonen, Janne Hämäläinen]
-- **Sound Designer**: [Janne Hämäläinen]
+- **Developer**: [Ilkka Eskola](https://github.com/IlkkaEskola), [Miqueas Orellana](https://github.com/milquejas)
+- **Artist**: [Mirva Tulonen](https://github.com/mirvatu), [Janne Hämäläinen](https://github.com/Puritani4)
+- **Sound Designer**: [Janne Hämäläinen](https://github.com/Puritani4)
+- **Additional Credits** to [**Janne Hämäläinen**](https://github.com/Puritani4) for creating the [*'There Will Be Darkness'*](https://youtu.be/apj2Wr8JJCQ) trailer!!
 
 ## Links
 
-- [There Will Be Darkness -Trailer](https://youtu.be/apj2Wr8JJCQ)
-- [GitHub Repository](https://github.com/milquejas/There-Will-Be-Darkness)
+- [**GitHub Repository**](https://github.com/milquejas/There-Will-Be-Darkness)
 
 <!-- ## Screenshots
 

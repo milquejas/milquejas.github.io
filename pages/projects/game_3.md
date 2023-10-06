@@ -141,11 +141,6 @@ Ultimately, "EndlessDragonfly2D" was conceived to provide a seamless blend of en
 
 #### These future improvements aim to enhance gameplay variety, provide players with meaningful character progression, and introduce exciting new challenges to "EndlessDragonfly2D." They offer opportunities to keep players engaged and motivated while continually refining and expanding the gaming experience.
 
-## Credits
-
-- **Developer**: [Jesse Saarela, Miqueas Orellana]
-- **Artist**: [Hilla Saarela, Janne Hämäläinen]
-
 ## Technologies Used
 
 #### In the development of "EndlessDragonfly2D", we utilized several key technologies:
@@ -178,6 +173,11 @@ Ultimately, "EndlessDragonfly2D" was conceived to provide a seamless blend of en
 
 <!-- - [Play Endless Dragonfly](#) -->
 - [GitHub Repository](https://github.com/JeDa187/EndlessRunner2D)
+
+## Credits
+
+- **Developer**: [Jesse Saarela](https://github.com/JeDa187), [Miqueas Orellana](https://github.com/milquejas)
+- **Artist**: [Hilla Saarela](https://github.com/KarmaVonGrim), [Janne Hämäläinen](https://github.com/Puritani4)
 
 ## Contact Information
 
