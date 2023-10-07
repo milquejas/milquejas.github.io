@@ -3,16 +3,15 @@ layout: page
 title: Seshat's Game
 permalink: /projects/game_2/
 ---
-Target Audience & Platform 
+## Seshat's Game: *An Odyssey in Ancient Egypt*
+
+### Target Audience & Platform 
 
 Genre: Isometric 2D Mathematical Problem Solving
 
-Target Audience: Age 8 -> 
+Target Audience: Age 8+ 
 
 Platform: Mobile, PC 
-
-**Seshat's Game: An Odyssey in Ancient Egypt**
-
 ## Overview
 
 Dive deep into the heart of ancient Egypt with "Seshat's Game", a captivating blend of exploration, dialogue, and cerebral challenges. As a temple apprentice in the bustling town of Thebes, you'll find yourself amidst sun-baked sandstone structures, the murmurs of marketplaces, and the serene backdrop of the Nile.
@@ -25,7 +24,7 @@ The challenges you'll face are ingeniously woven into the fabric of daily life i
 
 Welcome to "Seshat's Game" – where numbers meet narrative.
 
-### Objectives
+## Objectives
 
 **Primary Goal and Purpose of the Game:** 
 

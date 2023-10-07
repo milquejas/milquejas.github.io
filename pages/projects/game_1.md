@@ -3,18 +3,15 @@ layout: page
 title: There Will Be Darkness
 permalink: /projects/game_1/
 ---
+# Heidi's Quest: Mansion of Shadows
 
-Target Audience & Platform 
+### Target Audience & Platform  
 
 Genre: 2D Side-scrolling Horror 
 
 Target Audience: Age 18+ 
 
 Platform: Mobile, PC 
-
-# There Will Be Darkness
-
-# Heidi's Quest: Mansion of Shadows
 
 Once upon a time, in a quaint village nestled between misty hills, lived a courageous 10-year-old girl named Heidi. She had fiery red hair that matched her determination and a heart full of love for her family. Heidi had recently discovered that her beloved little brother, Timmy, had been captured by a terrible monster that haunted the surrounding forest.
 

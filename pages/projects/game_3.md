@@ -3,9 +3,14 @@ layout: page
 title: Endless Dragonfly
 permalink: /projects/game_3/
 ---
-
 # Endless Dragonfly
+### Target Audience & Platform 
 
+Genre: 2D Side-scrolling Endless Flight
+
+Target Audience: Age 6+ 
+
+Platform: Mobile, PC 
 ## Overview
 
 "EndlessDragonfly2D" is a captivating side-scrolling endless flight game set in a colorful, "action cartoon style" world. Players control a nimble dragonfly, navigating through a never-ending path filled with consistent, parallax-scrolling backgrounds, obstacles, and dynamic wildlife.
