@@ -6,11 +6,11 @@ permalink: /portfolio/
 
 ## Portfolio Overview
 
-### **Objective**
+## Objective
 
 This page showcases my skills, projects, and achievements as a game developer.
 
-### **Skills**
+## Skills
 
 - Game Development with Unity
 - Programming in C#

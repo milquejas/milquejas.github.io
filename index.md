@@ -3,7 +3,7 @@ layout: home
 title: Home
 ---
 
-# Welcome to my Home site
+## Welcome to my Digital Hub
 
 "Step into the realm of my creations. As a game design student, I've dedicated my time to mastering the fusion of game mechanics and captivating narratives. This portfolio is a journey through my works, inspirations, and the universes I've begun to shape. Delve in and discover my approach to interactive storytelling."
 
